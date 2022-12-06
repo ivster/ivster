@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey Traveler! 🛸
+
+My name is Ivy Wong and I am a graduate student at Columbia University. I'm a mixed-methods girl who loves Machine Learning, human behavior, and pop culture! 
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/ivy2208/), or [my personal blog](https://ivywxy.medium.com)! 
+
 
 <!--
 **ivster/ivster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
