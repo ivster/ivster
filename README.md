@@ -2,7 +2,7 @@
 
 ### My name is Ivy Wong and I am a graduate student at Columbia University. I'm a mixed-methods girl who loves Machine Learning and human behavior!
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/ivy2208/), or [my personal blog](https://ivywxy.medium.com)! 
+You can find me on [LinkedIn](https://www.linkedin.com/in/ivy2208/) here!
 
 
 
